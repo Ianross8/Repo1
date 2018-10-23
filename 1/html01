@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <style>
+    /* rule set*/
+    /*selector*/
+    /*declaration block is everything between { }*/ 
+    /*every declaration has a PROPERTY and a VALUE*/
+    h1 {
+      color: Red 
+    }
+  </style>
+</head>
+<body>
+  
+  <h1>Hello World</h1>
+  
+<p>My name is Ian Ross and I am creating a website, this is very cool!</p>
+  <!--ul>li*10-->
+  <ul>
+    <li>I</li>
+    <li>want</li>
+    <li>to</li>
+    <li>make</li>
+    <li>some</li>
+    <li>cookies</li>
+    <li>right</li>
+    <li>now</li>
+    <li>to</li>
+    <li>eat</li>
+  </ul>
+</body>
+</html>
+
